@@ -64,7 +64,7 @@ margin-bottom: 16px;
 background-color: #92bbcc;
 display: flex;
 align-items: center;
-padding: 10px;
+
 }
 
 @media screen and (max-width: 800px){
@@ -81,8 +81,8 @@ padding: 10px;
 
 
 .fontene-menn-rigg-head img{
-  width: 100px;
-  margin-right: 30px;
+  width: 200px;
+  margin: 0 30px 0 10px;
 }
 
 @media screen and (max-width: 800px){
